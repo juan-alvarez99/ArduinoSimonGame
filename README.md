@@ -4,6 +4,14 @@ Such an interesting project for beginners to get acquainted with Arduino program
 
 Simon Game, as you may know, is a memory test in which different LEDs light up following a random sequence. By pushing the buttons in the correct order, the sequence gets longer and longer, making it more difficult to follow. How long can you hold?
 
+Contents of this repository:
+
+- simon.ino: Arduino program
+- SimonGameLayout.png: Scheme of the electric conections 
+
+
+
+
 Possible updates:
 
 - Place a passive buzzer instead of the green and red LEDs and make it sound with different frequencies to indicate:
