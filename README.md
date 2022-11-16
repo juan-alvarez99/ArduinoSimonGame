@@ -24,6 +24,6 @@ Possible updates:
 
 *Program originally made by Juan Alvarez.*
 
-*You can find more in: https://github.com/Jualas7399*
+*You can find more in: https://github.com/juan-alvarez99*
 
 *Contact me via LinkedIn: www.linkedin.com/in/juan-alv/*
